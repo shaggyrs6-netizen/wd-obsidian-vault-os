@@ -10,7 +10,7 @@ import subprocess
 import sys
 
 ROOT = Path(__file__).resolve().parent
-ZIP = ROOT / 'WD Obsidian Vault OS 0.3.1 alpha.zip'
+ZIP = ROOT / 'WD-Obsidian-Vault-OS-0.3.1-alpha.zip'
 MANIFEST = ROOT / 'MANIFEST.json'
 
 

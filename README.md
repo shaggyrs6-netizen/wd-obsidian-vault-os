@@ -8,7 +8,7 @@ A small, local Obsidian starter vault for finding your way back to a project aft
 
 Use the latest pre-release assets on the [Releases page](https://github.com/shaggyrs6-netizen/wd-obsidian-vault-os/releases):
 
-- `WD Obsidian Vault OS 0.3.1 alpha.zip` — the test vault and offline start page.
+- `WD-Obsidian-Vault-OS-0.3.1-alpha.zip` — the test vault and offline start page.
 - `TESTER-INSTRUCTIONS.pdf` — a one-page guide for Windows, macOS and Linux.
 - `SHA256SUMS.txt` — checksums for both downloads.
 
